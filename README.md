@@ -12,6 +12,8 @@ The initial research concludes that the project should **not** begin by building
 
 The complete landscape study, proposed architecture, schema, hardware direction, evaluation design, and phased roadmap are in [RESEARCH.md](RESEARCH.md).
 
+The agreed first build stage is documented in [RGB_FIRST_MVP.md](RGB_FIRST_MVP.md): RGB-only hands/fingers, visual tracks, interaction hypotheses, and evidence-linked VLM descriptions before metric geometry or hardware work.
+
 ## Proposed one-line mission
 
 > Capture human interaction anywhere, preserve what the sensors actually measured, derive robot-relevant representations reproducibly, and prove their value on real robots.
